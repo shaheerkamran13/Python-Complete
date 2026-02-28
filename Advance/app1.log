@@ -1,0 +1,14 @@
+2026-03-01 02:12:25-ArtihmeticApp-DEBUG-Adding 10 + 15 = 25
+2026-03-01 02:12:25-ArtihmeticApp-DEBUG-Subtracting 15 - 10 = 5
+2026-03-01 02:12:38-ArtihmeticApp-DEBUG-Adding 10 + 15 = 25
+2026-03-01 02:12:38-ArtihmeticApp-DEBUG-Subtracting 15 - 10 = 5
+2026-03-01 02:12:38-ArtihmeticApp-DEBUG-Multiplying 10 * 5 = 50
+2026-03-01 02:12:38-ArtihmeticApp-DEBUG-Dividing 5 / 4 = 1.25
+2026-03-01 02:15:29-ArtihmeticApp-DEBUG-Adding 10 + 15 = 25
+2026-03-01 02:15:29-ArtihmeticApp-DEBUG-Subtracting 15 - 10 = 5
+2026-03-01 02:15:29-ArtihmeticApp-DEBUG-Multiplying 10 * 5 = 50
+2026-03-01 02:15:29-ArtihmeticApp-DEBUG-Dividing 5 / 4 = 1.25
+2026-03-01 02:16:09-ArtihmeticApp-DEBUG-Adding 10 + 15 = 25
+2026-03-01 02:16:09-ArtihmeticApp-DEBUG-Subtracting 15 - 10 = 5
+2026-03-01 02:16:09-ArtihmeticApp-DEBUG-Multiplying 10 * 5 = 50
+2026-03-01 02:16:09-ArtihmeticApp-ERROR-Division by zero error

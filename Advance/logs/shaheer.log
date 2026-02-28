@@ -1,0 +1,8 @@
+2026-03-01 01:52:06-root-DEBUG-This is a debug message
+2026-03-01 01:52:06-root-INFO-This is a info message
+2026-03-01 01:52:06-root-WARNING-This is a warning message
+2026-03-01 01:52:06-root-ERROR-This is a error message
+2026-03-01 01:52:06-root-CRITICAL-THis is a critical message
+2026-03-01 01:52:06-root-CRITICAL-THis is a critical message.....
+2026-03-01 01:52:06-root-DEBUG-The addition function is called
+2026-03-01 01:52:06-root-DEBUG-The addition operation is taking place
